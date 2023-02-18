@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sanjai
-- 📫 How to reach me sanjailakshman@gmail.com
+- 📫 How to reach me speak2sanjai@gmail.com
 
 <!---
 devopsboy/devopsboy-sanjai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
